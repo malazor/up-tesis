@@ -12,6 +12,7 @@
 * Actualizar los metros cuadrados de las tiendas al 2026 de las memorias.
 
 ## Tareas.
+
 ### Anita
 * Actualizar la data de ventas online de Euromarket / Passport
 * Revisar WORD.
@@ -27,3 +28,4 @@
 * Soporte a cualquiera de otros 3.
 
 > Ya se ha enviado el correo al profesor Lladó y se esta a la espera de respuesta.
+> El Profesor ya respondió pero nosotros no lo hemos hecho.

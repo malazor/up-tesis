@@ -1,0 +1,16 @@
+# Horizonte de Proyección y Perpetuidad
+
+> Se adopta un horizonte explícito de proyección de 5 años (2026–2030). Este periodo coincide con el reciente nuevo preriodo presidencial 2026–2031 y otorga el margen temporal necesario para que la compañía capture el resultado (eficiencias y el crecimiento) de su estrategia omnicanal e inversiones logísticas del año 2025. A partir del año 2031, la empresa entra en estado estacionario, aplicándose el cálculo de Valor Terminal mediante el modelo de crecimiento perpetuo.
+
+> Se establece un horizonte de proyección explícito de cinco años (2026–2030), lapso que coincide con el ciclo gubernamental 2026–2031 y permite la maduración completa de las eficiencias logísticas y omnicanales iniciadas en 2025. Consecuentemente, el ejercicio 2031 constituye el primer año de estado estacionario ($t_6$), punto en el que el flujo de caja alcanza un ritmo de régimen permanente y se aplica el cálculo del Valor Terminal mediante la tasa de crecimiento perpetuo ($g$).
+
+### Sugerencias IA
+
+El horizonte de 5 años (2026–2030) es la opción más sólida y recomendable para la valoración en la tesis. Esta duración se justifica técnicamente tanto por la coyuntura política como por el proceso de transformación del comercio electrónico expuesto en la investigación:
+
+#### 1. Calce Perfecto con el Ciclo Político (2026–2031)
+El trabajo destaca que tras la segunda vuelta de las elecciones de 2026, el nuevo mandato presidencial regirá la política económica del país durante el quinquenio 2026–2031.
+Proyectar 5 años permite capturar de principio a fin el horizonte de visibilidad e institucionalidad del periodo gubernamental entrante1. Proyectar a 10 años en el contexto peruano agregaría una volatilidad e incertidumbre innecesarias, ya que obligaría a especular sobre un segundo ciclo electoral sin sustento macrorrealista.
+
+#### 2. Curva de Captura de Valor del E-commerce y Omnicanalidad
+Fase de aceleración (Años 1 a 3): El mercado de e-commerce en el Perú muestra una expansión continua, pasando de USD 6,581 millones en 2025 a USD 7,606 millones en 20263. En Saga Falabella, la penetración del canal digital escaló del 11% al 30% de sus ventas totales4. Retorno del CapEx: La empresa ejecutó una inversión relevante de CapEx en 2025 (S/ 92.3 millones) orientada a la modernización logística de sus centros de distribución (Lurín, Villa El Salvador y Lima Centro) y la optimización omnicanal. Un horizonte de 5 años es el lapso exacto donde se maduran estas inversiones y se refleja el crecimiento superior de los ingresos digitales respecto al canal físico tradicional89. Convergencia y Estado Estacionario (Año 5): Hacia el 2030, el modelo omnicanal y la integración de billeteras digitales (como Yape y Plin) habrán alcanzado una fase de madurez. En ese punto (año 5), la tasa de crecimiento de la empresa se estabiliza y es metodológicamente correcto calcular el Valor Terminal (TV) usando una tasa de crecimiento perpetuo ($g$) alineada con la inflación de largo plazo del BCRP (2.0% - 2.5%)1314.
