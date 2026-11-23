@@ -1,0 +1,1 @@
+La empresa seleccionada es Indeco.
