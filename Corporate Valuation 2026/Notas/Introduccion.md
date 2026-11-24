@@ -6,6 +6,9 @@ Es el valor de un activo en funcion a los flujos futuros y riesgo (tasa de descu
 **Precio**
 Es lo que el mercado esta dispueso a pagar hoy, lo hace el inversionista marginal. Esta definido por la oferta, demanda, liquidez, momento y narrativa. La herramienta son los multiplos (P/E, EV/EBITDA, precio / ventas).
 
+**Inversionista Marginna**
+Es el último comprador o vendedor dispuesto a realizar una transacción al precio actual del mercado. Esta ultima TRX es la que pone el precio en el mercado. E
+
 *Se pueden valorar activos que generan flujos de caja*
 
 **¿Para que se valora?**   
